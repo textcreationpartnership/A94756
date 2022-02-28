@@ -1,0 +1,533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A designe about disposing the Bible into an harmony. Or, An essay, concerning the transposing the order of books and chapters of the holy Scriptures for the reducing of all into a continued history. The [brace] benefits. Difficultie. Helpes. / By Samuel Torshel.</title>
+            <author>Torshell, Samuel, 1604-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94756</idno>
+            <idno type="STC">Wing T1936</idno>
+            <idno type="STC">Thomason E377_9</idno>
+            <idno type="STC">ESTC R201360</idno>
+            <idno type="EEBO-CITATION">99861884</idno>
+            <idno type="PROQUEST">99861884</idno>
+            <idno type="VID">114030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A designe about disposing the Bible into an harmony. Or, An essay, concerning the transposing the order of books and chapters of the holy Scriptures for the reducing of all into a continued history. The [brace] benefits. Difficultie. Helpes. / By Samuel Torshel.</title>
+                  <author>Torshell, Samuel, 1604-1650.</author>
+               </titleStmt>
+               <extent>[4], 30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Miller, for John Bellamy at the three Golden-Lyons near the Royall-Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.DC.XLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "benefits. .. Helpes." are bracketed together on title page.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "feb: 18th 1646"; the final I in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Harmonies --  Early works to 1800.</term>
+               <term>Bible --  History of Biblical events --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114030:1" rendition="simple:additions"/>
+            <p>A Deſigne About Diſpoſing the BIBLE INTO AN HARMONY. OR, AN ESSAY, Concerning the <hi>tranſpoſing</hi> the <hi>order</hi> of <hi>Books</hi> and <hi>Chapters</hi> of the holy Scriptures for the reducing of all into a <hi>continued Hiſtory.</hi>
+            </p>
+            <p>The
+<list>
+                  <item>
+                     <hi>Benefits.</hi>
+                  </item>
+                  <item>
+                     <hi>Difficultie.</hi>
+                  </item>
+                  <item>
+                     <hi>Helpes.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By SAMUEL TORSHEL.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Miller,</hi> for <hi>John Bellamy</hi> at the three Golden-Lyons near the Royall-Exchange. M.DC.XLVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114030:2"/>
+            <pb facs="tcp:114030:2"/>
+            <head>TO THE RIGHT HONOVRABLE The LORDS and COMMONS aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His that I now humbly offer to your <hi>hands,</hi> hath been long in my <hi>thoughts;</hi> but much more ſince in my <hi>atten<g ref="char:EOLhyphen"/>dance</hi> on his <hi>Majeſties Children,</hi> I have (under the <hi>incouragements</hi> and particular <hi>favours</hi> of the <hi>Right Ho<g ref="char:EOLhyphen"/>nourable</hi> my <hi>Lord</hi> the <hi>Earl</hi> of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> to whoſe care You have intrusted thoſe <hi>Royall pledges,</hi>) read thorow the whole <hi>Bible</hi> in an <hi>expoſito<g ref="char:EOLhyphen"/>ry way.</hi> I have high thoughts of the ſacred authority of <hi>Scripture,</hi> I admire the <hi>wiſedom</hi> of the <hi>whole,</hi> and the ad<g ref="char:EOLhyphen"/>mirable <hi>concent</hi> of all the <hi>parts</hi> of it, and doe firmly believe that the <hi>majeſty</hi> of it will <hi>triumph</hi> over the attempts of
+<pb facs="tcp:114030:3"/>all <hi>Anti-Scripturiſts</hi> to the contrary, till the time of our <hi>Lords</hi> coming again. 'Tis the glory of <hi>Chriſtian States</hi> to <hi>maintain</hi> and <hi>advance</hi> it, which was the meaning of thoſe <hi>learned men,</hi> who have lately <hi>enriched</hi> the world with that <hi>treaſury</hi> of the <hi>King</hi> of <hi>France</hi> his <hi>Bi<g ref="char:EOLhyphen"/>ble</hi> in <hi>10. Volumes,</hi> where in one <hi>Fron<g ref="char:EOLhyphen"/>tiſpiece</hi> they have repreſented a <hi>Table</hi> of the <hi>Portraicture</hi> of <hi>Cardinal Maza<g ref="char:EOLhyphen"/>rine,</hi> ſupported and mounted by <hi>Angels,</hi> as being a great <hi>Patron</hi> of that <hi>renow<g ref="char:EOLhyphen"/>ned labour.</hi> May your <hi>Names</hi> alſo be great unto <hi>poſterity,</hi> whilſt you <hi>pro<g ref="char:EOLhyphen"/>mote</hi> the <hi>glory</hi> of <hi>God,</hi> and the <hi>ſaving knowledge</hi> of <hi>men,</hi> by works of this nature. The learned <hi>Licenſer</hi> inti<g ref="char:EOLhyphen"/>mates the <hi>difficulty</hi> of this, I alſo ac<g ref="char:EOLhyphen"/>knowledge it, but withall I nothing doubt, but under ſuch an influence as yours it may grow to a full <hi>maturity.</hi>
+            </p>
+            <closer>
+               <signed>Your Honours moſt humble and moſt devoted ſervant <hi>SAM. TORSHEL.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb n="1" facs="tcp:114030:3"/>
+            <head>A Deſigne TO HARMONIZE THE BIBLE.</head>
+            <div type="part">
+               <head>The authority of the Canon of Scri<g ref="char:EOLhyphen"/>pture. The liberty of Interpreting it. A complaint againſt the abuſe of it. The Remedy.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is a received principle even among the <hi>Turkes</hi> themſelves, <hi>That Gods teſtimony ſufficeth,</hi> (ſo the <hi>Alcoran</hi> ſpeaketh, cap. de Aranea, <hi>Sufficit Dei teſtificatio,</hi>) and, <hi>That God hath made known his will in Books.</hi> The <hi>Alcoran</hi> gives witneſſe to both the <hi>Teſtaments</hi> as we call them. And <hi>Philip Guadagnoli</hi> the <hi>Arabick Profeſſor</hi> at
+<pb n="2" facs="tcp:114030:4"/>
+                  <hi>Rome,</hi> in his <hi>Apologie for Chriſtian Religion,</hi> againſt <hi>Ahmed</hi> the <hi>Perſian,</hi> hath produced clear inſtances of ſome paſſages almoſt out of every particular Book in the whole Bible, expreſly quo<g ref="char:EOLhyphen"/>ted, or manifeſtly alluded unto, in many Chapters of the <hi>Alcoran.</hi>
+               </p>
+               <p>Much more therefore, in the entrance of this diſcourſe or eſſay which I have now undertaken, I will ſuppoſe it among <hi>Chriſtians,</hi> to be a <hi>prin<g ref="char:EOLhyphen"/>ciple</hi> that needs not proof, and a thing conſtantly granted, that the whole <hi>Scripture,</hi> contained in the <hi>Canon</hi> or number of Books which we call <hi>Canonicall,</hi> is the Word of God, divinely inſpi<g ref="char:EOLhyphen"/>red, and left unto us to be the Rule of Faith and manners. Under that <hi>Title</hi> or <hi>Right,</hi> the <hi>Law</hi> and the <hi>Prophets</hi> were delivered over from the <hi>Jews,</hi> the old and faithfull keepers of them, to the Chriſtians, by whom both <hi>thoſe,</hi> and the <hi>Evan<g ref="char:EOLhyphen"/>gelicall</hi> or <hi>Apostolicall writings</hi> and <hi>declarations,</hi> have been held in poſſeſſion under the ſame Title in the ſeverall ages ſince, even down to theſe dayes. There was never among the <hi>Ancients</hi> any publike quarrell about that; Only, (which addes alſo to the weight and ſtrength of the <hi>Scriptures Title</hi>) there have been not a few quarrels about the ſenſe.</p>
+               <p>The <hi>Arts</hi> that have been uſed by the <hi>Romanists,</hi> for the ſetling and eſtabliſhing <hi>the Right of Inter<g ref="char:EOLhyphen"/>pretation</hi> upon the <hi>Biſhop</hi> of <hi>Rome,</hi> have been well known; whereby they have laboured to make him the <hi>Oracle</hi> to the world, as the <hi>Turkiſh Mufti</hi> is (by the relation of <hi>Busbequius,</hi>) in thoſe parts,
+<pb n="3" facs="tcp:114030:4"/>finding it to be the moſt expedite way to gain the opinion of the <hi>publike</hi> and <hi>autorized Interpreter.</hi> But upon the experience of his own, and his fer<g ref="char:EOLhyphen"/>vants readineſſe, to make advantage of every thing, that hath any <hi>likelihood</hi> to <hi>advance</hi> them, and to <hi>wreſt</hi> and <hi>abuſe Scriptures</hi> to the maintenance of their <hi>uſurpations;</hi> therefore ſo long as there are (at leaſt) <hi>reaſonable</hi> men in the world, it will alwayes prove a broken and entangled <hi>Title</hi> unto him.</p>
+               <p>Who then muſt be Judge? There are many that would give it to the <hi>Fathers,</hi> and that we muſt receive their <hi>Senſe.</hi> But that were to make them not <hi>Expounders,</hi> but in a manner <hi>Law-givers.</hi> I have ſpoken ſomewhat to this in my <hi>Exercitation</hi> upon <hi>Malachy,</hi> and in my <hi>Hiſtoricall Preface</hi> before M<hi rend="sup">r</hi> 
+                  <hi>Stocks Commentary</hi> upon that <hi>Prophet,</hi> from whence I ſhall tranſcribe a little: That we re<g ref="char:EOLhyphen"/>gard the <hi>Fathers</hi> highly, but yeeld them not the <hi>Royaltie</hi> of a <hi>Mint,</hi> as <hi>Morney ſpeaks.</hi> In the very <hi>Councel</hi> of <hi>Trent,</hi> a ſaying of <hi>Cardinall Cajetan's, That a new ſenſe of Scripture is not to be rejected, though it be againſt the old Doctors, ſeeing power is left now alſo to interpret:</hi> was by ſome much com<g ref="char:EOLhyphen"/>mended, who thought it a <hi>Tyranny</hi> to forbid the <hi>faithfull</hi> the uſe of their own proper <hi>Ingenie.</hi> Others indeed oppoſed that ſaying, accounting <hi>Licenſe</hi> worſe then <hi>Tyrannie.</hi> Among others, <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> of <hi>Mans</hi> a <hi>Franciſcan Fryer,</hi> went ſo farre as to ſay, That the <hi>doctrine of Faith</hi> is now ſo <hi>cleared,</hi> that we ought to learn it <hi>no more</hi> out of the <hi>Scri<g ref="char:EOLhyphen"/>ptures,</hi> which were heretofore <hi>read</hi> in the <hi>Church</hi>
+                  <pb n="4" facs="tcp:114030:5"/>for <hi>inſtruction,</hi> but now only are read to <hi>pray</hi> by, not to <hi>ſtudy.</hi> There were not many that adhered to him; the better part delivered themſelves as <hi>Dominicke a Soto</hi> did, <hi>That it was fit to keep every wit within limits for matters of faith and manners, but elſe to leave them to their liberty for the ſenſe.</hi> Others of them yet more plainly: <hi>That it was not fit to reſtrain the underſtanding of the Scriptures to the Fathers only, whoſe expoſitions were moſt part allegoricall, ſeldome literall, and thoſe fitted to their own times.</hi> Seeing then the more <hi>learned</hi> and <hi>ſo<g ref="char:EOLhyphen"/>ber</hi> party even among the <hi>Romaniſts</hi> themſelves, have been tender of taking away the liberty of the <hi>faithfull</hi> to <hi>judge</hi> of what is written; farre be it from us to be worſe then they, or to erect a ty<g ref="char:EOLhyphen"/>ranny by putting the <hi>key</hi> of <hi>knowledge</hi> into the hands of any particular order of men.</p>
+               <p>But what way may be taken, to prevent, that this <hi>liberty,</hi> prove not a <hi>miſchief.</hi> Of late we have had too ſad an experience, of the <hi>boldneſſe</hi> of ſuch as <hi>pretend</hi> to the knowledge of Scriptures. Beſides what we hear of, delivered here and there in <hi>cor<g ref="char:EOLhyphen"/>ners;</hi> there is too much witneſſe in thoſe <hi>weak, ſenſeleſſe</hi> and <hi>triobolarie Pamphlets,</hi> which have <hi>waſted</hi> ſo much paper, and have <hi>unmannerly</hi> intru<g ref="char:EOLhyphen"/>ded upon the <hi>leiſures,</hi> yea the neceſſary <hi>buſineſſe</hi> of all ſorts of men of late years; in which what <hi>chil<g ref="char:EOLhyphen"/>diſh</hi> and <hi>impertinent allegations</hi> of <hi>texts</hi> have we found? what <hi>raw</hi> and <hi>indigeſted collections</hi> from them? what <hi>bandying</hi> up and down of <hi>incoherent Scripture-words</hi> and <hi>ſentences?</hi> many thorow a proud forwardneſſe, venture <hi>unripe</hi> and <hi>unexpe<g ref="char:EOLhyphen"/>rienced</hi>
+                  <pb n="5" facs="tcp:114030:5"/>upon the <hi>expounding</hi> of the <hi>Scriptures;</hi> that as <hi>Eckius</hi> ſaid, he choſe the points of <hi>predeſtina<g ref="char:EOLhyphen"/>tion,</hi> that upon them he might <hi>exercere juveniles calores,</hi> make triall of his youthly heat; ſo theſe take the <hi>ſacred Oracles</hi> of God, upon which to make their <hi>raw</hi> and <hi>imperfect eſſayes.</hi> And ordi<g ref="char:EOLhyphen"/>narily as the moſt learned men are <hi>ſcepticall</hi> and but little <hi>poſitive;</hi> ſo the <hi>weakeſt</hi> men, are moſt <hi>magisteriall,</hi> and cry out like the <hi>Mathematician</hi> at <hi>Athens, I have found, I have found it,</hi> when they light upon a <hi>notion</hi> which ſeems <hi>new</hi> to them, but it may be might be had in twenty <hi>Authors</hi> which they know not.</p>
+               <p>But the moſt of thoſe that are <hi>unlearned</hi> and <hi>unſtable,</hi> doe <hi>wreſt</hi> the <hi>Scripture,</hi> as the <hi>Apoſtle</hi> ſpeaks, thinking they finde that in it, which is not it. They bring an <hi>opinion</hi> with them, and with that they reade the <hi>Bible</hi> all along, imagin<g ref="char:EOLhyphen"/>ing that they ſee it every where before them; like the <hi>man</hi> of whom the <hi>Philoſopher</hi> ſpake, who thought he ſaw his own <hi>ſhape</hi> before his eyes at every ſtep he took. A ſtrong imagination or fan<g ref="char:EOLhyphen"/>cie will perſwade very much, and beguile both the <hi>eye</hi> and the <hi>ear:</hi> As for inſtance, Some when they look up to the <hi>racke</hi> or moving clouds, ima<g ref="char:EOLhyphen"/>gine them to have the form of <hi>Men,</hi> of <hi>Armies,</hi> of <hi>Caſtles, Forreſts, Landskips, Lyons, Bears,</hi> &amp;c. where none elſe can ſee ſuch things, nor is there any true reſemblance of ſuch <hi>ſhapes.</hi> And for the <hi>ear,</hi> when a man hath ſomewhat that <hi>roules</hi> and <hi>tumbles</hi> in his <hi>thoughts,</hi> he will think, that the <hi>ringing</hi> of <hi>bells,</hi> the <hi>beating</hi> of <hi>hammers,</hi> the <hi>report</hi>
+                  <pb n="6" facs="tcp:114030:6"/>that is made by great <hi>gunnes,</hi> or any other mea<g ref="char:EOLhyphen"/>ſured or intermitted noiſe, doth <hi>articulately</hi> ſound and ſpeak the ſame which is in his thoughts. In this ſame manner, many perſwade themſelves, that the <hi>Scripture</hi> repreſents to them ſuch and ſuch formed opinions, while they <hi>patch</hi> and lay things together, without any reaſon; like <hi>children</hi> look<g ref="char:EOLhyphen"/>ing upon a <hi>wall,</hi> will fancie an <hi>armed man,</hi> or ſome other thing, ſuch a <hi>ſpot</hi> to be the <hi>bulk</hi> of the body, ſuch another <hi>ſpot</hi> to be the <hi>head,</hi> ſome other <hi>ſcrat<g ref="char:EOLhyphen"/>ches</hi> or <hi>flawes</hi> to be the <hi>legs</hi> or <hi>armes</hi> with <hi>weapons;</hi> whiles another perhaps at the ſame time, imagines the ſame <hi>ſpots</hi> to reſemble a <hi>Dragon,</hi> and a third that they reſemble a <hi>Ship,</hi> or what elſe may indeed be moſt unlike a man. We could not have thought what <hi>vanity</hi> there is in the <hi>imagination</hi> of men, if ſomewhat had not been teſtified to us of old, by the <hi>Apoſtle,</hi> who tells us of the <hi>Gentiles,</hi> How their <hi>fooliſh hearts</hi> were <hi>darkned,</hi> Rom. 1. ver. 21. and by the <hi>Ancients, Auguſtine, Philaſtrius</hi> and o<g ref="char:EOLhyphen"/>thers, who have recorded the <hi>ſtrange</hi> and <hi>ſenſe<g ref="char:EOLhyphen"/>leſſe dotages</hi> of many <hi>hereticks;</hi> and of late in the <hi>ridiculous papers</hi> that have flown about, and bring <hi>Scripture</hi> with them, but no <hi>ſenſe;</hi> fancying the holy word of God, to <hi>strike,</hi> to <hi>ring,</hi> or <hi>chime</hi> to their tunes. The <hi>Apostles, Peter</hi> and <hi>Jude,</hi> ſpeak of <hi>dreamers;</hi> ſure there are many ſuch now. A man that is awake (we know,) may think of a <hi>golden houſe,</hi> the way to which <hi>paved</hi> with <hi>ru<g ref="char:EOLhyphen"/>bies</hi> and <hi>Saphires,</hi> the wall <hi>plaiſtred</hi> with <hi>pearl,</hi> and the <hi>gate</hi> one entire <hi>Diamond;</hi> but his <hi>externall ſen<g ref="char:EOLhyphen"/>ſes</hi> not being hindred with other witneſſe and
+<pb n="7" facs="tcp:114030:6"/>information, his <hi>internall ſenſe</hi> gives judgement aright; but when the outward <hi>ſenſes</hi> are locked up by <hi>ſleep,</hi> then thoſe vaineſt <hi>fancies</hi> are entertain<g ref="char:EOLhyphen"/>ed without controul. Such danger is there, when (to uſe the <hi>Apoſtles</hi> phraſe, <hi>Heb.</hi> 5.14.) men have not their <hi>ſenſes exerciſed to diſcerne both good and evil.</hi>
+               </p>
+               <p>But yet a greater miſchief ariſeth out of a cor<g ref="char:EOLhyphen"/>rupt and depraved minde and affection; according to that of S<hi rend="sup">t</hi> 
+                  <hi>Paul,</hi> 1 Tim. 6.5. <hi>perverſe diſputings of men of corrupt mindes.</hi> When the <hi>Appetite</hi> or <hi>affection</hi> is <hi>eager,</hi> and ſtayes not the leiſure of <hi>de<g ref="char:EOLhyphen"/>liberation,</hi> but <hi>outruns</hi> it, ſo as not to be recalled, then the <hi>minde</hi> is drawn to be of the ſame opinion with the <hi>appetite,</hi> and takes up what is <hi>fancied,</hi> as <hi>true;</hi> and what is <hi>affected,</hi> as <hi>warrantable:</hi> that at length the <hi>beguiled</hi> man <hi>believes</hi> himſelf. He that looks upon an <hi>unlovely</hi> thing, with the <hi>eye</hi> of <hi>love,</hi> thinks it <hi>lovely;</hi> ſo that that is <hi>falſe,</hi> ſeems <hi>true</hi> to him that ſtrongly <hi>affects</hi> it. He that is extream<g ref="char:EOLhyphen"/>ly <hi>athirſt,</hi> drinks down that with pleaſure, which if he were not ſo <hi>diſtemperd,</hi> would offend his taſt, and very much <hi>nauſeate</hi> his <hi>ſtomack.</hi>
+               </p>
+               <p>I might inſtance in many the like <hi>deceits</hi> and <hi>in<g ref="char:EOLhyphen"/>conveniences,</hi> growing partly from <hi>depravedneſſe</hi> of minde, partly from <hi>ignorance,</hi> partly from <hi>inſta<g ref="char:EOLhyphen"/>bility, ſuddenneſſe</hi> and <hi>haſte,</hi> when men take a <hi>ſnatch,</hi> and <hi>run</hi> away, with that which <hi>looks</hi> like the <hi>ſenſe</hi> of <hi>Scripture,</hi> as if they had gotten ſome<g ref="char:EOLhyphen"/>what that made much for them, and <hi>weary</hi> them<g ref="char:EOLhyphen"/>ſelves about them, like the <hi>Apes</hi> in the <hi>ſtory,</hi> who finding a <hi>glo-worm</hi> in a cold night, took it for a
+<pb n="8" facs="tcp:114030:7"/>
+                  <hi>ſpark</hi> of <hi>fire,</hi> and heaped <hi>ſticks</hi> upon it, to <hi>warm</hi> themſelves. So doe they loſe their labour, who are buſie about <hi>ſounds</hi> of <hi>words,</hi> and <hi>incoherent-Scri<g ref="char:EOLhyphen"/>pture-ſentences.</hi>
+               </p>
+               <p>But I have not ſpoken all this with a minde to <hi>defraud</hi> the <hi>faithfull</hi> of their <hi>Right,</hi> even their Right to <hi>Judge</hi> of what is written. The ſentence of the great <hi>Apostle</hi> reſolves and directs me in this, who applying himſelf to the <hi>Community</hi> of <hi>Believers</hi> at <hi>Corinth,</hi> ſaith even to all, <hi>I ſpeak as to wiſe men, judge ye what I ſay,</hi> 1 Cor. 10.15. And in after times, the <hi>Christians</hi> held themſelves in poſſeſ<g ref="char:EOLhyphen"/>ſion of it. <hi>Theodoret</hi> in the 4<hi rend="sup">th</hi> book of his <hi>Hiſtory, cap.</hi> 19. gives us a notable teſtimony. When <hi>Eu<g ref="char:EOLhyphen"/>zoius</hi> the Governour of <hi>Alexandria,</hi> had thruſt out <hi>Peter</hi> the orthodox ſucceſſor of <hi>Athanaſius,</hi> and had placed <hi>Lucius</hi> an <hi>Arrian</hi> in that Church; the people having been brought up under <hi>Athanaſius</hi> doctrine, perceiving contrary food provided for them, they would not hear, but forſook the <hi>eccleſiasticall meetings.</hi> That that God hath given to the <hi>people,</hi> let none preſume to take from them. Let us rather renew the earneſtneſſe of <hi>Chryſoſtome</hi> and others of the <hi>Antients,</hi> to perſwade and en<g ref="char:EOLhyphen"/>courage them more to the <hi>reading</hi> and <hi>examining</hi> of the <hi>Scriptures.</hi> Take not away the <hi>book,</hi> only <hi>ſpread</hi> it more open. The <hi>miniſtery eccleſiaſticall</hi> was appointed to this <hi>end,</hi> and to this <hi>end</hi> were <hi>gifts</hi> given unto men.</p>
+               <p>To this purpoſe many have profitably labour<g ref="char:EOLhyphen"/>ed: The <hi>Ancients</hi> framed their <hi>Commentaries, Enar<g ref="char:EOLhyphen"/>rations, Scholies, Gloſses, Metaphraſes, Paraphraſes,
+<pb n="9" facs="tcp:114030:7"/>Homilies.</hi> In the ſeverall ages there have been ſome or other (as I have particularly mentioned in my forenamed <hi>Hiſtoricall Preface</hi> to <hi>Malachy</hi>) that have applied themſelves to this work, but more abundantly in theſe later times. Only, whereas the <hi>difficulty</hi> and <hi>obſcurity</hi> of <hi>Scripture</hi> is in great part becauſe of the <hi>Anticipations, Tranſ<g ref="char:EOLhyphen"/>poſitions,</hi> and <hi>Diſlocations,</hi> of whole <hi>books,</hi> or ſome <hi>parcels,</hi> of the <hi>ſacred Canon;</hi> we are yet wanting to our ſelves and to our clear underſtanding of the whole <hi>Scripture;</hi> that the <hi>whole</hi> hath not been di<g ref="char:EOLhyphen"/>geſted into one <hi>continued Hiſtory,</hi> according to the <hi>order</hi> of <hi>times,</hi> which would make the work of <hi>Commenting</hi> and <hi>Interpreting</hi> much more eaſie, and the whole <hi>Context</hi> altogether more <hi>clear.</hi> This therefore is it, which I have humbly to offer:</p>
+               <p n="1">
+                  <hi rend="margQuotes">1. To propoſe and open the Deſigne, about the Harmonizing of the whole Bible, or the bringing of both the Teſtaments into one con<g ref="char:EOLhyphen"/>tinued Hiſtory.</hi>
+               </p>
+               <p n="2">
+                  <hi rend="margQuotes">2. To ſhew the uſefullneſſe, or benefit of ſuch an Harmonie.</hi>
+               </p>
+               <p n="3">
+                  <hi rend="margQuotes">3. To diſcover the Difficulty of ſuch an un<g ref="char:EOLhyphen"/>der<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aking.</hi>
+               </p>
+               <p n="4">
+                  <hi rend="margQuotes">4. To enquire into ſome Helps towards it.</hi>
+               </p>
+               <p n="5">
+                  <hi rend="margQuotes">5. To Commend it to the allowance and care of the Publike State.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:114030:8"/>
+               <head>An Eſſay of the Deſigne.</head>
+               <p>THe <hi>Deſigne</hi> is to lay the <hi>whole Story</hi> together, in a <hi>continued connexion,</hi> the <hi>Books</hi> or <hi>parts</hi> of Books, and all the ſeverall <hi>parcels</hi> diſpoſed and placed in their <hi>proper order,</hi> as the continuance and <hi>Chronicall method</hi> of the <hi>Scripture-hiſtory</hi> requires, ſo that no <hi>ſentence</hi> nor <hi>word</hi> in the whole <hi>Bible</hi> be <hi>omitted,</hi> nor any thing <hi>repeated,</hi> or any word <hi>in<g ref="char:EOLhyphen"/>ſerted,</hi> but what is altogether neceſſary for <hi>Tran<g ref="char:EOLhyphen"/>ſition.</hi> So as ſome <hi>whole Chapters</hi> or <hi>pieces,</hi> be put into other places, yea great parts of ſome <hi>Books,</hi> and ſome <hi>whole Books</hi> to be <hi>woven</hi> into the <hi>body</hi> of an other Book. For the illuſtration of my mean<g ref="char:EOLhyphen"/>ing, I ſhall only offer at a <hi>generall draught</hi> or <hi>imper<g ref="char:EOLhyphen"/>fect Eſſay.</hi>
+               </p>
+               <p>It muſt neceſſarily begin with the firſt Book of <hi>Moſes</hi> which is <hi>Geneſis,</hi> where ſuch <hi>anticipations</hi> as may be found, are to be refer'd to their own place. As for example; To make up the 27<hi rend="sup">th</hi> and 28<hi rend="sup">th</hi> 
+                  <hi>verſe,</hi> of the <hi>firſt Chapter</hi> of <hi>Geneſis,</hi> with the 7<hi rend="sup">th</hi>, the 18<hi rend="sup">th</hi>, 19<hi rend="sup">th</hi>, verſe, <hi>&amp;c.</hi> of the 2<hi rend="sup">d</hi> 
+                  <hi>Chapter,</hi> together into one <hi>relation.</hi> Then to continue, <hi>Chap.</hi> 1. <hi>ver.</hi> 29, 30, &amp;c. after the end of the 2<hi rend="sup">d</hi> 
+                  <hi>Chapter.</hi> And to place the three firſt <hi>verſes</hi> of the 2<hi rend="sup">d</hi> 
+                  <hi>Chapt.</hi> at the <hi>ending</hi> of the <hi>third.</hi> And ſo throughout the <hi>Bible,</hi> where any thing is related by <hi>prolepſis</hi> or <hi>An<g ref="char:EOLhyphen"/>ticipation.</hi> And to place the whole Book of <hi>Job</hi> (digeſted alſo particularly, if there be any <hi>anticipa<g ref="char:EOLhyphen"/>tions</hi> in it) into the body of <hi>Geneſis,</hi> either after the hiſtory of <hi>Nahor;</hi> or next after the 33. <hi>verſe</hi>
+                  <pb n="11" facs="tcp:114030:8"/>of the 36<hi rend="sup">th</hi> 
+                  <hi>Chapt.</hi> of <hi>Geneſis,</hi> according as it ſhall be judged upon a learned <hi>examination,</hi> that after the opinion of the <hi>Hebrew's,</hi> he was the <hi>Third</hi> from <hi>Nahor;</hi> or after the opinion of the <hi>Greeks,</hi> and the <hi>Genealogy</hi> added in the <hi>LXX,</hi> at the end of <hi>Job,</hi> he were the <hi>Fifth</hi> from <hi>Abraham,</hi> and <hi>Third</hi> from <hi>Eſau,</hi> and ſo the ſame with <hi>Jobab,</hi> mentioned, <hi>Gen.</hi> 26.33. Whether <hi>Moſes</hi> wrote the <hi>History</hi> of <hi>Job,</hi> will not be materiall now to queſtion; but how<g ref="char:EOLhyphen"/>ever, the <hi>Story</hi> is to be <hi>inſerted</hi> into that place that ſhall be found moſt unqueſtionably to agree to the <hi>hiſtory</hi> of his <hi>time!</hi>
+               </p>
+               <p>In this manner to <hi>digeſt</hi> the <hi>Books</hi> of <hi>Exodus, Numbers, Leviticus, Deuteronomy,</hi> and to continue them to the <hi>story,</hi> placing the ſeverall <hi>exhortations</hi> of <hi>Moſes</hi> recorded in <hi>Deuteronomy,</hi> in their own proper times, when the occaſions of ſpeaking them there were, if it may be found in <hi>Numbers</hi> the hiſtory of the <hi>Removes,</hi> when they were ſpo<g ref="char:EOLhyphen"/>ken. And into the hiſtory of <hi>Moſes,</hi> to <hi>inſert</hi> the 90. <hi>Pſalme,</hi> if it ſhall be concluded to be writ by him, and (as to me it ſeems moſt likely) if it were penned upon occaſion of that <hi>threatning,</hi> related <hi>Deut.</hi> 4.31. then in that ſtory to be conveniently placed.</p>
+               <p>There are ſome particular <hi>Anticipations</hi> in <hi>Jo<g ref="char:EOLhyphen"/>ſhuah,</hi> and ſo in the Book of <hi>Judges,</hi> but thoſe being <hi>digeſted,</hi> they are to be continued <hi>ſucceſsively</hi> to the <hi>ſtory.</hi> And for the whole Book of <hi>Ruth,</hi> it may ſeem fit to be put in the <hi>ſtory</hi> of <hi>Eli,</hi> in the beginning of <hi>Samuel,</hi> if ſhe be found to have lived under the time of his <hi>Judging Iſrael.</hi>
+               </p>
+               <pb n="12" facs="tcp:114030:9"/>
+               <p>The <hi>Books</hi> of <hi>Samuel, Kings</hi> and <hi>Chronicles,</hi> will be next in their <hi>order,</hi> where the <hi>Hiſtory</hi> of the <hi>Kings</hi> of the whole people, and after, of the two Kingdoms of <hi>Judah</hi> and <hi>Ephraim,</hi> being diſtinctly, and in one relation of their ſeverall reignes made up of the <hi>circumſtances</hi> in the ſeverall Books brought together; here will be the greateſt <hi>variety</hi> of <hi>tranſpoſition</hi> and <hi>inſerting.</hi>
+               </p>
+               <p>To diſtribute the <hi>Pſalms</hi> (ſo many as are found to be <hi>Davids,</hi> and whoſe <hi>argument</hi> and <hi>oc<g ref="char:EOLhyphen"/>caſion</hi> may be found,) into the <hi>Chapters</hi> in <hi>Samuel,</hi> according to the ſeverall <hi>eſtates</hi> and <hi>paſsages</hi> of <hi>Da<g ref="char:EOLhyphen"/>vids life,</hi> that in his continued hiſtory we may heare him <hi>ſinging</hi> anſwerable to the <hi>emergencies</hi> of providence, whereby we ſhall much better know his meaning. As for ſuch <hi>Pſalms</hi> as are thought his, but no <hi>ſatisfaction</hi> (ſo much as <hi>conjecturall</hi>) concerning the <hi>occaſion,</hi> thoſe to be ſet at the end of his <hi>life</hi> and <hi>reigne.</hi> The other <hi>Pſalms</hi> to be <hi>di<g ref="char:EOLhyphen"/>ſtributed</hi> to the time and ſtories of their <hi>Authours,</hi> one to <hi>Heman,</hi> namely, <hi>Pſ.</hi> 88. one to <hi>Ethan,</hi> where we finde him mentioned in the <hi>Kings,</hi> namely, <hi>Pſ.</hi> 89. ſome to <hi>Aſaph;</hi> ſome haply to the <hi>Sonnes</hi> of <hi>Korah,</hi> that were of the <hi>Quire</hi> in <hi>Davids</hi> time, name<g ref="char:EOLhyphen"/>ly, <hi>Pſ.</hi> 42, 43, &amp;c. and haply ſome to <hi>King Solomon,</hi> at leaſt <hi>one,</hi> namely, <hi>Pſ.</hi> 72. being thought to be of his compoſing.</p>
+               <p>The <hi>Books</hi> of <hi>Proverbs</hi> (ſo many of the <hi>Proverbs</hi> as may be judged to be <hi>ſpoken</hi> or <hi>collected</hi> by <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi>) <hi>Canticles,</hi> and <hi>Eccleſiastes,</hi> to be put into the <hi>body</hi> of the <hi>ſecond Book</hi> of <hi>Kings,</hi> according to the times of <hi>Solomons</hi> reigne: if the opinion of ſome
+<pb n="13" facs="tcp:114030:9"/>
+                  <hi>Rabbins</hi> be thought to be followed, that the <hi>Song</hi> was made when he was <hi>young,</hi> at his <hi>marriage,</hi> the <hi>Proverbs</hi> collected in his <hi>maturity, Eccleſiaſtes</hi> in his <hi>age.</hi> Thoſe <hi>Proverbs,</hi> ch. 25. ch. 26. ch. 27. ch. 28. ch. 29. to be placed in the body of the <hi>Chro<g ref="char:EOLhyphen"/>nicles,</hi> at the end of the reigne of <hi>King Hezekiah.</hi>
+               </p>
+               <p>The <hi>Sermons</hi> of the <hi>Prophets,</hi> to be diſpoſed into the <hi>times</hi> of the <hi>reignes</hi> of thoſe <hi>Kings</hi> under whom they lived. So that if with induſtry and diligence the particular <hi>times</hi> and <hi>occaſions</hi> can be found out, ſo accordingly to <hi>refer</hi> them; placing it may be a <hi>Chapter</hi> or <hi>Chapters</hi> of <hi>one, two</hi> or <hi>more Prophets</hi> contemporary, and prophecying of the ſame ſub<g ref="char:EOLhyphen"/>ject, <hi>together.</hi> And ſo in order to the <hi>times,</hi> with<g ref="char:EOLhyphen"/>out regard to the <hi>order</hi> of <hi>Books.</hi> And thoſe <hi>Pro<g ref="char:EOLhyphen"/>phecies</hi> whoſe <hi>occaſions</hi> or <hi>time</hi> cannot be judged of, thoſe to be placed at the <hi>ends</hi> of thoſe <hi>Kings</hi> under whom they lived.</p>
+               <p>
+                  <hi>Ezekiel,</hi> and <hi>Daniel,</hi> to be <hi>inſerted</hi> about the <hi>end,</hi> or added after the <hi>end</hi> of <hi>Chronicles,</hi> as ſhall be ma<g ref="char:EOLhyphen"/>turely conſidered.</p>
+               <p>
+                  <hi>Hagge,</hi> and <hi>Zachary,</hi> to be <hi>interwoven</hi> with the continued hiſtories of <hi>Ezra</hi> and <hi>Nehemiah,</hi> into which alſo the whole Book of <hi>Eſther</hi> is to be wrought: And then <hi>Malachy</hi> to be placed in the order of his own <hi>time.</hi>
+               </p>
+               <p>As for the <hi>new Teſtament,</hi> the <hi>beginning</hi> of it, namely the <hi>Hiſtory</hi> of our <hi>Lords life</hi> and <hi>ſufferings,</hi> recorded by <hi>four</hi> ſeverall <hi>Evangeliſts,</hi> is already brought together, by many <hi>Learned men</hi> into an <hi>Harmony,</hi> but moſt diligently by <hi>Chemnitius</hi> ſo farre as he went, and then continued by <hi>Lyſerus,</hi> and after by <hi>Ge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hard.</hi>
+               </p>
+               <pb n="14" facs="tcp:114030:10"/>
+               <p>Into the body of the <hi>Hiſtory</hi> of the <hi>Apoſtles Acts,</hi> are to be diſtributed the <hi>Epiſtles</hi> of <hi>James, Peter,</hi> and eſpecially of <hi>Paul,</hi> in an other <hi>order</hi> then now they <hi>lye,</hi> according to the <hi>times</hi> wherein they were writ, which will be applied without much difficul<g ref="char:EOLhyphen"/>ty to his <hi>hiſtory</hi> within ſeverall <hi>Chapters</hi> of the <hi>Acts.</hi> And the writings of <hi>John,</hi> will finiſh up the <hi>whole Hiſtory.</hi>
+               </p>
+               <p>And whereas it may be objected, That the <hi>or<g ref="char:EOLhyphen"/>der</hi> of <hi>Books</hi> and <hi>Chapters</hi> being ſo <hi>altered</hi> and <hi>tran<g ref="char:EOLhyphen"/>ſpoſed,</hi> we ſhall not know where to <hi>finde</hi> any thing.</p>
+               <p>That may be eaſily helpt, by <hi>marginall Columnes</hi> all along throughout with the <hi>Context;</hi> and a <hi>Table</hi> or <hi>Index</hi> at the <hi>end</hi> of the <hi>whole.</hi> In moſt pla<g ref="char:EOLhyphen"/>ces there will need but <hi>two Columnes,</hi> for a great part <hi>none</hi> at all, where the <hi>Hiſtory</hi> or <hi>Book</hi> runs a<g ref="char:EOLhyphen"/>long without <hi>diſlocation</hi> or <hi>inſertion;</hi> and in no place above <hi>four,</hi> as in the <hi>Evangeliſts,</hi> unleſſe haply a <hi>fifth Columne</hi> ſomewhere there, if it be judged fit to <hi>inſert Judes Epiſtle,</hi> into the <hi>Hiſtory</hi> of the <hi>E<g ref="char:EOLhyphen"/>vangeliſts,</hi> concerning which for the preſent I <hi>Quaerie.</hi>
+               </p>
+               <p>At the end may be an <hi>Index</hi> of <hi>two Columns,</hi> In the <hi>firſt,</hi> the <hi>Books, Chapters,</hi> and <hi>verſes</hi> in the <hi>or<g ref="char:EOLhyphen"/>der</hi> as they <hi>lye now</hi> in the <hi>Bible;</hi> And in the <hi>other</hi> the <hi>Books</hi> and <hi>Chapters</hi> of the <hi>Harmony,</hi> it being divided into ſo many <hi>Books</hi> and <hi>Chapters,</hi> as may be moſt for <hi>eaſe.</hi> Whereby may preſently be <hi>found,</hi> in what part of the <hi>Harmony,</hi> any <hi>Chapter, Verſe,</hi> or <hi>Sentence</hi> of the <hi>whole Bible</hi> lies. As for example:
+<pb n="15" facs="tcp:114030:10"/>
+                  <table>
+                     <row>
+                        <cell role="label" cols="2">
+                           <hi>Geneſis.</hi>
+                        </cell>
+                        <cell role="label" cols="2">
+                           <hi>Harmony.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>ch.</cell>
+                        <cell>ver.</cell>
+                        <cell>lib.</cell>
+                        <cell>ch.</cell>
+                     </row>
+                     <row>
+                        <cell>1.</cell>
+                        <cell>1. to 27.</cell>
+                        <cell>1.</cell>
+                        <cell>1.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The <hi>Harmony</hi> being thus framed throughout, there may be ſome <hi>marginall directions</hi> where they are neceſſary, to give the <hi>reaſons</hi> of the <hi>Tranſitions, Inſertions, Tranſpoſitions,</hi> and of the <hi>whole order.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Benefits.</head>
+               <p>THe <hi>benefit</hi> of ſuch an <hi>Harmony</hi> will be <hi>greater</hi> then we can fully comprehend till we have the <hi>uſe</hi> of it. It will help much toward the ma<g ref="char:EOLhyphen"/>king up an <hi>exacter Scripture-Chronologie.</hi> It will ſerve abundantly to the clearing of the <hi>genuine</hi> and <hi>hiſtoricall meaning</hi> of the <hi>Text</hi> every where. As for inſtance; The Sermons of the <hi>Prophets,</hi> though as they were <hi>laid up</hi> and preſerved by the <hi>Sanhe<g ref="char:EOLhyphen"/>drim,</hi> are delivered unto us in a <hi>body</hi> as the <hi>learned Elders digeſted</hi> them, yet they were <hi>applied</hi> at ſe<g ref="char:EOLhyphen"/>verall <hi>times,</hi> in the ſeverall <hi>emergencies</hi> of affairs, of the <hi>two Kingdoms</hi> of <hi>Judah</hi> and <hi>Iſrael,</hi> and upon <hi>ſeverall occaſions,</hi> which being found out, will make us, as it were <hi>preſent auditours</hi> of thoſe <hi>Prophets,</hi> and in the <hi>quality</hi> of thoſe to whom they were <hi>di<g ref="char:EOLhyphen"/>rected.</hi> So the <hi>Pſalms</hi> were written by <hi>ſeverall men,</hi> at <hi>ſeverall times,</hi> and thoſe of <hi>David</hi> not all at <hi>once.</hi> We ſhall know the <hi>temper</hi> of their <hi>ſpirits,</hi> upon what <hi>motives,</hi> upon what <hi>rejoycings,</hi> upon what <hi>fears,</hi> or <hi>diſtreſſes,</hi> or <hi>accidents</hi> they were <hi>compoſed.</hi>
+                  <pb n="16" facs="tcp:114030:11"/>Take one example; <hi>Pſal.</hi> 90.10. The <hi>anthour</hi> of that Pſalm, <hi>paſsionately complains</hi> of the <hi>ſhortneſſe</hi> and <hi>miſery</hi> of mans <hi>years. The dayes of our years are threeſcore years and ten,</hi> &amp;c. But it concerns not all <hi>men</hi> and <hi>times.</hi> Only <hi>Moſes,</hi> who ſeems to have been the <hi>authour</hi> of that <hi>Pſalm, complains</hi> upon an <hi>occaſion peculiar</hi> to that <hi>time,</hi> and that <hi>people</hi> whom he governed. It was the word of the <hi>Lord</hi> con<g ref="char:EOLhyphen"/>cerning that <hi>generation,</hi> when they <hi>provoked</hi> him in the <hi>wilderneſſe,</hi> that none of them ſhould enter into his <hi>reſt,</hi> nor ſee the good land, but that all their <hi>carcaſſes</hi> ſhould <hi>fall</hi> in the <hi>deſert,</hi> that occaſioned this complaint. A <hi>strange</hi> and and <hi>unuſuall</hi> thing, that of 600000. <hi>ſouls,</hi> men of <hi>able conſtitutions,</hi> and lying under no <hi>epidemicall diſeaſe, none</hi> (except two perſons, <hi>Caleb</hi> and <hi>Ioſuah,</hi>) ſhould out-live <hi>threeſcore</hi> and <hi>ten years,</hi> or at utmoſt but <hi>fourſcore,</hi> that were <hi>twenty years</hi> of age at their coming forth of <hi>Egypt.</hi> We may take another example; <hi>Pſal.</hi> 27.13. <hi>I had fainted unleſſe I had beleeved, to ſee the goodneſſe of the Lord in the land of the living.</hi> What was that <hi>land</hi> of the <hi>living,</hi> that <hi>David</hi> ſpeaks of? When he made this <hi>Pſalm,</hi> he was forced from <hi>Ie<g ref="char:EOLhyphen"/>ruſalem,</hi> where he was wont to <hi>live</hi> in <hi>ſociety</hi> with <hi>men,</hi> and now ſhifted up and down among <hi>grott's,</hi> and <hi>caves,</hi> and <hi>ſolitary holes,</hi> as if his <hi>dwelling</hi> had been among the <hi>Sepulchers</hi> of the <hi>dead.</hi> The <hi>occa<g ref="char:EOLhyphen"/>ſion</hi> then <hi>enlightens</hi> the <hi>Pſalm,</hi> if we inſert it into that part of <hi>Davids</hi> ſtory. The <hi>literall, hiſtoricall ſenſe</hi> of <hi>Scripture,</hi> we muſt firſt <hi>build</hi> upon, elſe in <hi>myſteries</hi> and <hi>Allegories,</hi> we may ſooner be <hi>fine</hi> and <hi>witty,</hi> then <hi>ſound. Hierome</hi> confeſſeth his own <hi>youth<g ref="char:EOLhyphen"/>ly
+<pb n="17" facs="tcp:114030:11"/>vanity,</hi> in <hi>interpreting Obadiah's Prophecie. When I was young</hi> (ſaith he) <hi>I interpreted the Prophet allego<g ref="char:EOLhyphen"/>rically, becauſe I was ignorant of the Hiſtory. I thought then I could read a ſealed book. No man can write ſo ill, but ſome will like it. Such an one praiſed it, but I bluſh't. I now freely profeſſe, that was the work of my childiſh wit, this of my mature age.</hi> Many under<g ref="char:EOLhyphen"/>take <hi>Scripture</hi> as if they could <hi>reade</hi> a <hi>ſealed book,</hi> and perhaps many praiſe them for <hi>lofty</hi> and <hi>raiſed no<g ref="char:EOLhyphen"/>tions,</hi> but where is their <hi>Authority,</hi> when they loſe the <hi>genuine</hi> and <hi>litterall meaning</hi> of the holy <hi>Pen-man? Iſidore Peluſiota</hi> hath obſerved, That wheras the <hi>Manichees</hi> thought that no part of the <hi>old Testament</hi> ſpake of <hi>Christ;</hi> ſome in his time went to the other <hi>extream,</hi> thinking all to be ſpoken of <hi>him:</hi> and ſo brought a <hi>diſcredit</hi> upon the <hi>true te<g ref="char:EOLhyphen"/>ſtimonies,</hi> when <hi>wrong</hi> ones were <hi>wreſted. Weak<g ref="char:EOLhyphen"/>neſſe</hi> of <hi>proof,</hi> brings the greateſt <hi>prejudice</hi> againſt the <hi>truth.</hi>
+               </p>
+               <p>
+                  <hi>Divines</hi> have given out ſome <hi>obſervations,</hi> for the underſtanding how <hi>Scripture</hi> is <hi>fulfilled;</hi> either, 1. When the thing is <hi>done</hi> or comes to paſſe, which was <hi>meant</hi> by the <hi>Prophet</hi> in his <hi>litterall</hi> and <hi>proper ſenſe.</hi> Or, 2. When that comes to paſſe which was <hi>fore-ſhadowed</hi> by the <hi>proper</hi> and <hi>immediate ſub<g ref="char:EOLhyphen"/>ject</hi> of the <hi>Prophets ſpeech.</hi> Or, 3. When the thing that happens, was not <hi>litterally</hi> and <hi>properly pointed at,</hi> nor <hi>fore-ſhadowed,</hi> but aptly and handſomely <hi>applied</hi> to, and compared with ſomewhat <hi>like</hi> it. Or, 4. When that which was <hi>fore-told</hi> or <hi>fore-ſha<g ref="char:EOLhyphen"/>dowed,</hi> though it have been already <hi>done</hi> in <hi>part,</hi> or have been <hi>begun</hi> to be <hi>done,</hi> is afterwards <hi>done</hi> more
+<pb n="18" facs="tcp:114030:12"/>
+                  <hi>fully,</hi> or elſe more <hi>conſtantly:</hi> It being poſſible that the <hi>ſame Scripture</hi> may be fulfilled <hi>often,</hi> yea in the ſame <hi>litterall ſenſe.</hi> Now an <hi>Harmonious hiſtorizing</hi> of the <hi>Pſalms</hi> and the <hi>Prophets,</hi> and the like, will lead us more clearly to know the <hi>immediate ſubject</hi> of what was ſpoken, &amp; give us <hi>hints</hi> to diſcern what was <hi>higher</hi> and <hi>further</hi> meant; yea poſſibly <hi>more,</hi> then what <hi>themſelves</hi> underſtood in the words that <hi>themſelves</hi> ſpake. For the <hi>Scriptures</hi> being given for the <hi>inſtruction</hi> and <hi>uſe</hi> of all <hi>ſucceeding ages;</hi> It may be that the <hi>Prophets</hi> knew not all that they de<g ref="char:EOLhyphen"/>livered, and which the <hi>ſenſe</hi> of their words, might be afterwards <hi>improved</hi> unto. <hi>Daniel</hi> was a man full of the Spirit of God, and much travelled in <hi>Revelations,</hi> yet he knew not the then approaching time of the <hi>Jews liberty,</hi> till that in the firſt of <hi>Da<g ref="char:EOLhyphen"/>rius,</hi> he learned more then was <hi>immediately inſpi<g ref="char:EOLhyphen"/>red</hi> unto him, by <hi>Books</hi> that had been written by <hi>Prophets</hi> before him, <hi>Dan.</hi> 9.2. <hi>In the firſt year of Darius raign, I Daniel understood by books the number of the years, whereof the word of the Lord came to Jere<g ref="char:EOLhyphen"/>miah the Prophet.</hi> No doubt he diligently <hi>ſatisfied</hi> himſelf, unto what <hi>year</hi> of <hi>Jeremies</hi> publique Mini<g ref="char:EOLhyphen"/>ſtery thoſe <hi>predictions,</hi> Chap. 25.11, 12. and <hi>chap.</hi> 29.10. were made. Some <hi>Prophets</hi> knew <hi>more,</hi> and ſome <hi>leſſe.</hi> They ſaw <hi>for</hi> after times, but often themſelves ſaw but what concerned the <hi>preſent times, places,</hi> and <hi>affairs.</hi> It was ſaid to <hi>Daniel</hi> himſelf, <hi>Chap.</hi> 12.4. <hi>O Daniel, ſhut up the words, and ſeal the book even to the time of the end.</hi> Theſe myſteries were to be ſhut up till theſe <hi>later times,</hi> concerning which it follows in the ſame verſe, <hi>Ma<g ref="char:EOLhyphen"/>ny
+<pb n="19" facs="tcp:114030:12"/>ſhall run to and fro, and knowledge ſhall be encreaſed,</hi> Namely, by reading thy book, when the time of fulfilling comes. There is a <hi>Manuſcript</hi> that offers a <hi>pleaſant Interpretation</hi> of theſe words; <hi>That the o<g ref="char:EOLhyphen"/>pening of the world by trade and navigation, and the encreaſe of knowledge ſhould meet in one age.</hi> The Lord <hi>Verulam</hi> embraced this <hi>ſenſe,</hi> if himſelf in<g ref="char:EOLhyphen"/>vented the <hi>Frontiſpiece</hi> to his <hi>Inſtauratio magna,</hi> where in a quiet ſea, a <hi>ſhip</hi> is pictured with <hi>full ſpread ſails,</hi> and under it, this ſame ſentence out of <hi>Da<g ref="char:EOLhyphen"/>niel, Multipertranſibunt &amp; augebitur ſcientia.</hi> Alit<g ref="char:EOLhyphen"/>tle before <hi>Luther,</hi> when <hi>Columbus</hi> found out the <hi>Indies,</hi> there was alſo a generall reviving of all <hi>parts</hi> of <hi>learning.</hi> And ſurely, as our <hi>age</hi> hath much advanced above what <hi>Antiquity</hi> knew, ſo the <hi>Ages</hi> after us are likely to know <hi>more,</hi> even out of the <hi>Scriptures</hi> concerning <hi>themſelves,</hi> and their <hi>times.</hi> Had <hi>Moſes, Abraham</hi> (of whom <hi>Chriſt</hi> ſaid, <hi>He ſaw his day and rejoyced,) David, Iſaiah, Micah, Malachy,</hi> &amp;c. lived, and had they been ear-wit<g ref="char:EOLhyphen"/>neſſes of <hi>Chriſts</hi> words, and ſpectatours of his do<g ref="char:EOLhyphen"/>ings, they would better have underſtood <hi>one ano<g ref="char:EOLhyphen"/>thers words,</hi> yea and their own too. But this is the <hi>benefit</hi> which the deſigned <hi>Harmony</hi> doth promiſe, that it will bring them <hi>nearer together</hi> in fellowſhip with themſelves, nearer unto <hi>Chriſt</hi> and to his <hi>Apo<g ref="char:EOLhyphen"/>ſtles writings,</hi> whereby much that we knew not what to think of, will be <hi>eaſie</hi> to us.</p>
+               <p>But I will not undertake a further <hi>commendation</hi> of the <hi>Benefit,</hi> which I doe not yet my ſelf ſo <hi>fully</hi> underſtand, nor can <hi>apprehend,</hi> as when according to the <hi>Deſigne,</hi> the thing it ſelf ſhall be <hi>done.</hi> They
+<pb n="20" facs="tcp:114030:13"/>talk much of the <hi>glaſses,</hi> of thoſe curious and ex<g ref="char:EOLhyphen"/>cellent men, <hi>Galileus</hi> and <hi>Gaſſendus,</hi> &amp;c. that will rectifie many of our <hi>errours</hi> about the <hi>Planets;</hi> but thorow this <hi>glaſse</hi> we ſhall ſee into the <hi>heavens</hi> of the <hi>Scriptures,</hi> and every day enrich our ſelves with <hi>new diſcoveries</hi> and <hi>obſervations.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Difficultie.</head>
+               <p>AS I have commended the <hi>Benefit,</hi> ſo I may not deny or conceal the <hi>Difficulty</hi> of the work. They that have laboured in the <hi>leſſer Harmony,</hi> namely, that of the <hi>four Evangeliſts,</hi> have found it to be no <hi>mean labour,</hi> nor could they ſoon put it out of their <hi>hands.</hi> The <hi>Attempts</hi> of many upon it, give teſtimony of this <hi>difficulty. Iacob: D' Au<g ref="char:EOLhyphen"/>ſoles a Lapeyre, in anno</hi> 1610. reckoned up <hi>twenty</hi> known Authours this way. <hi>Renhard Lutz</hi> (omit<g ref="char:EOLhyphen"/>ted in <hi>Lapeyres</hi> Catalogue) who compiled his <hi>Har<g ref="char:EOLhyphen"/>mony,</hi> 1560. confeſſeth he was often at a ſtand in it. <hi>Calvin,</hi> who compiled it, 1555. made his <hi>way</hi> the <hi>eaſier,</hi> by treading after <hi>Bucer,</hi> but yet ſome<g ref="char:EOLhyphen"/>time was forced to <hi>part,</hi> and go <hi>another Tract.</hi> In<g ref="char:EOLhyphen"/>deed <hi>Andrew Oſiander,</hi> was willing to perſwade himſelf he had overcome the <hi>difficulties</hi> of it: he ſaith, That <hi>Iohn Schopper</hi> an <hi>Abbot</hi> had ſhew'd him two <hi>Compilers</hi> of it, one an <hi>Anonymus;</hi> the other was <hi>Zacharias Chryſopolitanus,</hi> but they ſtuck, where <hi>Ammonius</hi> of <hi>Alexandria,</hi> and after him, S<hi rend="sup">t</hi> 
+                  <hi>Auguſtine</hi> had, namely at the <hi>cure</hi> of <hi>Peters wives
+<pb n="21" facs="tcp:114030:13"/>mother,</hi> whether it were <hi>before</hi> or <hi>after</hi> the <hi>Sermon on the Mount.</hi> And there he had <hi>ſtuck</hi> and <hi>ſtaid</hi> too, but that our <hi>Cranmer</hi> (being at his houſe, as he was on his way, being <hi>Embaſsadour</hi> from King <hi>Henry</hi> 8. to the <hi>Emperour</hi>) deſired him to goe on. He did ſo, and ſaith, he ſaw his <hi>ſcarecrows</hi> removed: but ſome <hi>judge</hi> of it, that he had better have <hi>ſtuck,</hi> then <hi>plunged</hi> over. All that did it met with <hi>cen<g ref="char:EOLhyphen"/>ſure. Vincentius Regius</hi> findes fault with <hi>Ianſenius,</hi> others with him. <hi>Iohn de la Haye</hi> at <hi>Doway,</hi> and <hi>Francis de Roia</hi> at <hi>Toledo,</hi> finde defects in all before them: though ſome have profeſſed more then or<g ref="char:EOLhyphen"/>dinary diligence, as particularly <hi>Tho: Beaux-amis</hi> a <hi>Carmelite,</hi> profeſſeth it was the <hi>ſubſtance</hi> of <hi>twenty ſix years labour.</hi> 'Tis done at length, indeed to good ſatisfaction, but not by one hand, but be<g ref="char:EOLhyphen"/>gun by <hi>Chemnitius,</hi> continued by <hi>Polycarp Lyſerus,</hi> and again continued by D. <hi>Gerhard.</hi> It cannot then be expected, that this <hi>work</hi> now <hi>deſigned,</hi> ſhould on a ſudden be <hi>done,</hi> or <hi>done</hi> by <hi>one hand,</hi> be<g ref="char:EOLhyphen"/>ing ſo much more <hi>large</hi> and abundantly more <hi>diffi<g ref="char:EOLhyphen"/>cult:</hi> for in many things there will be need of an <hi>Elias,</hi> as the <hi>Iews</hi> are wont to ſpeak concerning <hi>knots</hi> that they cannot <hi>unty.</hi> As for example,</p>
+               <p>Not to ſpeak of the <hi>two Pſalms</hi> which <hi>Amadeus</hi> ſaith, it was revealed to him that they were <hi>compo<g ref="char:EOLhyphen"/>ſed</hi> by <hi>Adam,</hi> which are in the <hi>King of Spains Li<g ref="char:EOLhyphen"/>brary</hi> of <hi>Manuſcripts</hi> in the <hi>Eſcuriall:</hi> It may not<g ref="char:EOLhyphen"/>withſtanding perhaps deſervedly be put to the Que<g ref="char:EOLhyphen"/>ſtion, whether the 92. <hi>Pſalm</hi> be to be inſerted into <hi>Adams Hiſtory,</hi> ſeeing many of the <hi>Iews</hi> thought it was his; and in the <hi>Chaldee,</hi> it hath this title, <hi>The
+<pb n="22" facs="tcp:114030:14"/>praiſe and ſong which the firſt man ſpake for the Sabbath day.</hi>
+               </p>
+               <p>Then, as for the 90. <hi>Pſalm,</hi> I have ſpoken to it, as compoſed by <hi>Moſes,</hi> and ſo the <hi>Chaldee Title</hi> ſpeaks, <hi>The prayer which</hi> Moſes <hi>the Prophet of the Lord prated, when the people of the houſe of</hi> Iſrael <hi>ſin<g ref="char:EOLhyphen"/>ned in the deſert.</hi> But if we ſhould follow <hi>Hierom's</hi> rule, That all the Pſalms which are without <hi>Title,</hi> are to be <hi>aſcribed</hi> to the <hi>ſame Authour</hi> that is menti<g ref="char:EOLhyphen"/>oned in the <hi>next fore-going;</hi> then the 91. <hi>Pſalm,</hi> and <hi>nine</hi> more that follow, ſhould be <hi>inſerted</hi> into <hi>Moſes</hi> his <hi>Hiſtory.</hi> But that rule will juſtly deſerve to come under Queſtion.</p>
+               <p>Then, Whereas the <hi>Vatican Septuagint,</hi> doe in<g ref="char:EOLhyphen"/>ſert the <hi>Proverbs of Agur</hi> and <hi>Lemuel,</hi> Prov. 30. and 31. between <hi>Chap.</hi> 24. and 25. It will require an examination, 1. Whether <hi>Agur</hi> were ſome wiſe and godly man <hi>in Solomons time</hi> or <hi>before;</hi> or rather, whether he were not <hi>Solomon</hi> himſelf, called <hi>Agur; The Collectour,</hi> the ſonne of <hi>Iakeh,</hi> that is, <hi>David, The vomiter,</hi> becauſe (as it was ſaid of the <hi>later Po<g ref="char:EOLhyphen"/>ets,</hi> That they <hi>licked up Homers vomit</hi>) ſo <hi>Solomon</hi> gathered up, what <hi>David</hi> had let fall in many occa<g ref="char:EOLhyphen"/>ſionall ſentences; or elſe, <hi>The ſonne of vomit,</hi> an <hi>Hebraiſme (i.)</hi> ſo <hi>full,</hi> that he could not <hi>hold,</hi> but muſt needs <hi>vent</hi> and <hi>utter</hi> what he had to ſay: ac<g ref="char:EOLhyphen"/>cording to that, <hi>Pſal.</hi> 45.1. <hi>My heart is enditing,</hi> or <hi>boyleth</hi> and <hi>bubleth up</hi> a good matter: Or <hi>Agur</hi> (i.) <hi>Solomon</hi> the <hi>Satyre,</hi> ſo the phraſe is alſo uſed a<g ref="char:EOLhyphen"/>mong the <hi>Latines, Evomere aliquid in aliquem.</hi> The Character of a great part of that 30. Chapter being <hi>Satyricall,</hi> may rather ſtrengthen that conjecture.
+<pb n="23" facs="tcp:114030:14"/>But it is left to the Queſtion. 2. Whether <hi>Le<g ref="char:EOLhyphen"/>muel,</hi> Chap. 31. be <hi>Solomon,</hi> who they ſaid had <hi>eight names,</hi> or elſe King <hi>Hezekiah,</hi> as it might ſeem, becauſe the <hi>Proverbs</hi> of this Chapter, are brought in, <hi>after,</hi> and <hi>in order,</hi> to thoſe which his <hi>ſervants copied out,</hi> as is noted, <hi>chap.</hi> 25.1. But theſe and an hundred more <hi>Queries,</hi> will require ſolution to the framing of ſuch a <hi>work.</hi>
+               </p>
+               <p>The <hi>Profeſſour</hi> of any <hi>faculty,</hi> beſides <hi>Divinity,</hi> may without much skill in any profeſſion but his own, truly underſtand the <hi>genuine rules</hi> or precepts of it; all his learning elſe, is but <hi>ornament</hi> to him: As a <hi>Phyſitian</hi> needs not <hi>Hiſtory, Mathematicks,</hi> &amp;c. as neceſſarily to inable him to his <hi>faculty.</hi> But the very <hi>litterall ſenſe</hi> of much in <hi>Scripture</hi> (which is the <hi>Divines Canon</hi>) cannot be rightly underſtood, without <hi>variety</hi> of reading and learning in other <hi>faculties</hi> and <hi>ſciences.</hi> And to the <hi>collating</hi> of <hi>Scri<g ref="char:EOLhyphen"/>ptures,</hi> and reducing <hi>parcels</hi> to the <hi>order</hi> of <hi>History,</hi> there will need both much <hi>ſagacity</hi> and <hi>industry,</hi> and a competent knowledge in the <hi>Rites</hi> and <hi>cu<g ref="char:EOLhyphen"/>ſtoms civil</hi> of all the neighbour Nations: together with <hi>humane hiſtories,</hi> of thoſe and the ſucceeding times; as likewiſe an acquaintance with the <hi>Iewiſh Laws;</hi> and haply the time of ſome of the <hi>Prophets</hi> will be known only by the <hi>Characteriſmes</hi> of lan<g ref="char:EOLhyphen"/>guage, peculiar to ſuch and ſuch different ages.</p>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:114030:15"/>
+               <head>The Helps.</head>
+               <p>THe <hi>helps</hi> towards this <hi>work,</hi> muſt be from ſuch as have diligently written the <hi>eccleſiasticall Chronology,</hi> ſuch as are verſed in <hi>Rabbinicall</hi> and <hi>Talmudique</hi> learning. Among others <hi>Plantavitius</hi> his <hi>Florilegium Rabbinicum,</hi> eſpecially the <hi>third Tome,</hi> where we have the <hi>Bibliotheca Rabbinica.</hi> Such as have ſtudied the <hi>Iewiſh laws</hi> and <hi>Rites; L'Empereur</hi> ſo far as he hath gone, <hi>De legibus Hebrae<g ref="char:EOLhyphen"/>orum Forenſibus, Corn. Bertram de Politcia Iudaica, Car. Sigonius de Republica Hebraeorum,</hi> M. <hi>Selden</hi> in many of his <hi>learned</hi> books, will be of much uſe. And haply ſuch as have <hi>confined</hi> themſelves to <hi>par<g ref="char:EOLhyphen"/>ticular</hi> arguments, tending to the clearing of ſome <hi>Scripture Antiquities,</hi> may be of ſervice. <hi>Peter Fa<g ref="char:EOLhyphen"/>ber</hi> his <hi>Agoniſticon,</hi> about <hi>ſports</hi> and <hi>Olympick games. Nicolaus Cauſsin</hi> of <hi>Hieroglyphicks</hi> and <hi>Ae<g ref="char:EOLhyphen"/>nigma's. Briſsonius</hi> and <hi>Roa,</hi> for the <hi>cuſtoms</hi> of mar<g ref="char:EOLhyphen"/>riage, <hi>&amp;c. Ianus Cornarus,</hi> of things belonging to <hi>Vines,</hi> according to the Scripture. <hi>Georg. Longus</hi> of <hi>Milain,</hi> concerning <hi>ſignatory Rings.</hi> Such as have writ of <hi>ſtones</hi> and <hi>minerals,</hi> of <hi>weights</hi> and <hi>mea<g ref="char:EOLhyphen"/>ſures,</hi> of <hi>Treaties</hi> and <hi>Covenants,</hi> of the <hi>Iewiſh Ka<g ref="char:EOLhyphen"/>lendar,</hi> and of the <hi>Iubiles,</hi> and many ſuch other ar<g ref="char:EOLhyphen"/>guments according to the Scripture. <hi>Theodoret, Melanthon,</hi> and <hi>Moller</hi> have done ſomewhat by way of <hi>cenjecture,</hi> about the <hi>occaſion</hi> of divers of the <hi>Pſalms. Petrus Aureolus</hi> in his <hi>Compendium Biblio<g ref="char:EOLhyphen"/>rum, Georg. Ederus Councellour</hi> to the Emperours
+<pb n="25" facs="tcp:114030:15"/>
+                  <hi>Ferdinand</hi> the firſt, and <hi>Maximilian</hi> the ſecond, in his <hi>Oeconomia Bibliorum;</hi> The <hi>Tigurine Divines</hi> in the Preface to their <hi>Verſion: Solomon Glaſsius</hi> in his <hi>Tract de methodo S. Scr.</hi> And <hi>Euſebius Nierembergius, de origine S. Scrip.</hi> eſpecially in his 9<hi rend="sup">th</hi> &amp; 10<hi rend="sup">th</hi> books; and divers authours of that kinde, have ſomewhat concerning the <hi>Pen-men</hi> of holy writ, and their <hi>times.</hi> But whereas no man hath yet thought of the <hi>main deſigne,</hi> much leſſe <hi>attempted</hi> any thing in direct <hi>ten<g ref="char:EOLhyphen"/>dency</hi> to it, it muſt be expected, that the way will be <hi>rough</hi> and <hi>uneven,</hi> full of <hi>bracks</hi> and <hi>thickets,</hi> and in which the <hi>undertakers</hi> muſt be pardoned, if haply they may ſometimes loſe their way.</p>
+            </div>
+            <div type="part">
+               <head>The Recommendation.</head>
+               <p>BUt ſome <hi>helps</hi> there are, and if the <hi>State</hi> may pleaſe to <hi>look</hi> upon it with <hi>favour</hi> and <hi>encourage<g ref="char:EOLhyphen"/>ment,</hi> ſomewhat may be done to the great <hi>ſervice</hi> of the <hi>Churches</hi> of <hi>Chriſt,</hi> not only for the <hi>eaſe</hi> of the <hi>Miniſtery,</hi> which <hi>O ſiander</hi> ſaith was the <hi>reaſon</hi> why he ſet upon the <hi>Harmony</hi> of the <hi>Evangeliſts,</hi> but for the <hi>abundant encreaſe</hi> of ſaving knowledge of all <hi>Chriſtians,</hi> who will finde the <hi>benefit</hi> of it be<g ref="char:EOLhyphen"/>ing <hi>done,</hi> which I doubt I am not ſo <hi>happy</hi> in my <hi>expreſsions</hi> as to make it <hi>plain</hi> enough in the <hi>Deſigne.</hi> And the very <hi>labour</hi> and <hi>ſearch,</hi> will yeeld comfort all along to ſuch as may be employ<g ref="char:EOLhyphen"/>ed in it, as <hi>George Wyrth</hi> profeſſeth, that in his <hi>old age,</hi> when he had ſerved as a <hi>Phyſitian</hi> in <hi>Bruſſels,</hi> and in King <hi>Philip</hi> the <hi>ſeconds Court</hi> ma<g ref="char:EOLhyphen"/>ny
+<pb n="26" facs="tcp:114030:16"/>years, he applied himſelf to the difficult <hi>col<g ref="char:EOLhyphen"/>lating</hi> of the <hi>Evangeliſts</hi> (being then turned Pro<g ref="char:EOLhyphen"/>teſtant) for his laſt <hi>refreſhments.</hi> Let the <hi>State</hi> only pleaſe to make it their <hi>care,</hi> after the <hi>ex<g ref="char:EOLhyphen"/>ample</hi> of ſome <hi>Kings</hi> and <hi>Republicks</hi> that have done ſuch like <hi>works</hi> of <hi>generall uſe</hi> for the ad<g ref="char:EOLhyphen"/>vance of learning and divine knowledge, and they will finde ſome men very learned of their own <hi>order;</hi> beſides many in the <hi>profeſsion</hi> of <hi>Divinity,</hi> and others of <hi>private quality,</hi> that will <hi>contribute</hi> much <hi>aſsiſtance</hi> to it.</p>
+               <p>Perhaps it may be thought a <hi>daring</hi> and <hi>bold deſigne,</hi> I humbly ſubmit it to the <hi>judgement</hi> of men <hi>learned,</hi> and <hi>godly wiſe,</hi> who will pardon an <hi>errour</hi> (if it be any) of <hi>earneſt affection</hi> to the <hi>advance</hi> of <hi>holy-Scripture-knowledge:</hi> which is the greateſt <hi>Treaſury</hi> of <hi>heavenly wiſdome</hi> and <hi>ſci<g ref="char:EOLhyphen"/>ence,</hi> that the whole earth hath in <hi>keeping;</hi> and of which we cannot put too <hi>high</hi> a <hi>value.</hi> Let me by way of <hi>Concluſion,</hi> adde ſome juſt <hi>Characters</hi> of the <hi>whole Bible,</hi> and the particular <hi>Books,</hi> ſome of which I have gathered from the <hi>Ancients</hi> and others, but many of them holding out their own evidence.</p>
+               <list>
+                  <item>The <hi>whole Bible. The ſouls food:</hi> ſo <hi>Athanaſius.</hi>
+                  </item>
+                  <item>
+                     <hi>The common ſhop of ſoul phyſick:</hi> ſo <hi>Baſil.</hi>
+                  </item>
+                  <item>
+                     <hi>The invariable rule of truth:</hi> ſo <hi>Iraeneus.</hi>
+                  </item>
+                  <item>
+                     <hi>The Divines balance:</hi> ſo <hi>Auguſtin.</hi>
+                  </item>
+               </list>
+               <p n="1">1. In reſpect of the dictating of it; It is,
+<list>
+                     <item>
+                        <hi>The Library of the holy Ghoſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſts Aphoriſmes.</hi>
+                     </item>
+                     <pb n="27" facs="tcp:114030:16"/>
+                     <item>
+                        <hi>The Acts and Statutes of the highest Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+                     </item>
+                     <item>
+                        <hi>Gods Mint-houſe.</hi>
+                     </item>
+                     <item>
+                        <hi>The Signet of Gods right-hand.</hi>
+                     </item>
+                     <item>
+                        <hi>The Epistle of God to the world.</hi>
+                     </item>
+                     <item>
+                        <hi>The Court-roll of Gods Fines and Amercements.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="2">2. In reſpect of it's worth; It is,
+<list>
+                     <item>
+                        <hi>A ſtately Palace.</hi>
+                     </item>
+                     <item>
+                        <hi>A fruitfull field.</hi>
+                     </item>
+                     <item>
+                        <hi>The true Heſperides.</hi>
+                     </item>
+                     <item>
+                        <hi>The ineſtimable Pearl.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="3">3. In reſpect of it's uſe: It is,
+<list>
+                     <item>
+                        <hi>The Touch-ſtone of errour.</hi>
+                     </item>
+                     <item>
+                        <hi>The Key of the Sheep-fold.</hi>
+                     </item>
+                     <item>
+                        <hi>The Glaſſe of Life.</hi>
+                     </item>
+                     <item>
+                        <hi>The Weather-glaſſe.</hi>
+                     </item>
+                     <item>
+                        <hi>The Christians Magazine.</hi>
+                     </item>
+                     <item>
+                        <hi>The Armory.</hi>
+                     </item>
+                  </list>
+               </p>
+               <list>
+                  <item>
+                     <hi>Geneſis.</hi> The Cabinet of greateſt Antiquities.</item>
+                  <item>
+                     <hi>Exodus.</hi> The ſacred Rule of Law and Juſtice.</item>
+                  <item>
+                     <hi>Leviticus.</hi> The holy Ephemerides.</item>
+                  <item>
+                     <hi>Numbers.</hi> Gods Arithmetick.</item>
+                  <item>
+                     <hi>Deuteronomy.</hi> The faithfull Monitor.</item>
+                  <item>
+                     <hi>Joſhuah.</hi> The holy Warre.</item>
+                  <item>
+                     <hi>Judges.</hi> The Mirrour of Magiſtrates and Ty<g ref="char:EOLhyphen"/>rants.</item>
+                  <item>
+                     <hi>Ruth.</hi> The Picture of a pious Widow.</item>
+                  <item>
+                     <hi>Samuel.</hi> Sacred Politicks.</item>
+                  <item>
+                     <hi>Kings.</hi> Sacred Politicks.</item>
+                  <pb n="28" facs="tcp:114030:17"/>
+                  <item>
+                     <hi>Chronicles.</hi> The holy Annals.</item>
+                  <item>
+                     <hi>Ezra.</hi> An Idea of Church and State Refor<g ref="char:EOLhyphen"/>mation.</item>
+                  <item>
+                     <hi>Nehemiah.</hi> An Idea of Church and State Refor<g ref="char:EOLhyphen"/>mation.</item>
+                  <item>
+                     <hi>Heſter.</hi> The great example of Gods providence.</item>
+                  <item>
+                     <hi>Job.</hi> The School of Patience.</item>
+                  <item>
+                     <hi>Pſalms.</hi> The Souls Soliloquies.</item>
+                  <item>
+                     <hi>Pſalms.</hi> The little Bible.</item>
+                  <item>
+                     <hi>Pſalms.</hi> The Anatomy of Conſcience.</item>
+                  <item>
+                     <hi>Pſalms.</hi> The Roſe-garden.</item>
+                  <item>
+                     <hi>Pſalms.</hi> The Pearl-Iſland.</item>
+                  <item>
+                     <hi>Proverbs.</hi> Divine Ethicks, Politicks, Oecono<g ref="char:EOLhyphen"/>micks.</item>
+                  <item>
+                     <hi>Eccleſiaſtes.</hi> Experience of the Creatures Va<g ref="char:EOLhyphen"/>nity.</item>
+                  <item>
+                     <hi>Canticles.</hi> The myſticall Bride-ſong.</item>
+                  <item>
+                     <hi>Iſaiah.</hi> The Evangelicall Prophet.</item>
+                  <item>
+                     <hi>Jeremiah.</hi> The Patheticall Mourner.</item>
+                  <item>
+                     <hi>Lamentations.</hi> The voice of the Turtle.</item>
+                  <item>
+                     <hi>Ezekiel.</hi> Urim and Thummim in <hi>Babylon.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel.</hi> The Apocalyps of the old Teſtament.</item>
+                  <item>
+                     <hi>Hoſeah.</hi> Sermons of Faith and Repentance.</item>
+                  <item>
+                     <hi>Joel.</hi> The Thunderer.</item>
+                  <item>
+                     <hi>Amos.</hi> The plain dealing Reprover.</item>
+                  <item>
+                     <hi>Obadiah. Edoms</hi> whip.</item>
+                  <item>
+                     <hi>Jonah.</hi> The Propheticall Apoſtle of the Gen<g ref="char:EOLhyphen"/>tiles.</item>
+                  <item>
+                     <hi>Micah,</hi> The Wiſe-mens Starre.</item>
+                  <item>
+                     <hi>Nahum.</hi> The Scourge of <hi>Aſſur.</hi>
+                  </item>
+                  <item>
+                     <hi>Habakkuk.</hi> The Comforter of Captives.</item>
+                  <item>
+                     <hi>Zephaniah.</hi> Preparation for ſad times.</item>
+                  <item>
+                     <hi>Hagge.</hi> Zeal for Gods houſe.</item>
+                  <item>
+                     <hi>Zachariah.</hi> Prophetick Hieroglyphicks.</item>
+                  <pb n="29" facs="tcp:114030:17"/>
+                  <item>
+                     <hi>Malachy.</hi> The Bound-ſtone of the two Teſta<g ref="char:EOLhyphen"/>ments.</item>
+                  <item>
+                     <hi>Matthew.</hi> The four Trumpeters proclaiming the title of the great King.</item>
+                  <item>
+                     <hi>Mark.</hi> The four Trumpeters proclaiming the title of the great King.</item>
+                  <item>
+                     <hi>Luke.</hi> The four Trumpeters proclaiming the title of the great King.</item>
+                  <item>
+                     <hi>John.</hi> The four Trumpeters proclaiming the title of the great King.</item>
+                  <item>
+                     <hi>Acts.</hi> The Treaſury of Eccleſiaſticall Story.</item>
+                  <item>
+                     <hi>Romans.</hi> The Principles of Chriſtian Faith. The Catholique Catechiſme.</item>
+                  <item>1. <hi>Corinthians.</hi> Apoſtolicall Reformation.</item>
+                  <item>2. <hi>Corinthians.</hi> A patern of juſt Apologies.</item>
+                  <item>
+                     <hi>Galatians.</hi> The Epiſtle to the <hi>Romans</hi> epito<g ref="char:EOLhyphen"/>mized.</item>
+                  <item>
+                     <hi>Epheſians.</hi> The opening of the great myſtery of ſalvation.</item>
+                  <item>
+                     <hi>Philippians.</hi> An Apoſtolicall Paraeneſis.</item>
+                  <item>
+                     <hi>Coloſsians.</hi> A briefe Rule of Faith and Man<g ref="char:EOLhyphen"/>ners.</item>
+                  <item>1. <hi>Theſſalonians.</hi> Practick Theology.</item>
+                  <item>2. <hi>Theſſalonians.</hi> Polemick Theology.</item>
+                  <item>1. <hi>Timothy.</hi> The ſacred Paſtorall.</item>
+                  <item>2. <hi>Timothie.</hi> The Title of the Scripture pleaded.</item>
+                  <item>
+                     <hi>Titus. Agenda,</hi> or Church-orders.</item>
+                  <item>
+                     <hi>Philemon.</hi> The Rule of Relations.</item>
+                  <item>
+                     <hi>Hebrews.</hi> A Commentary upon <hi>Leviticus.</hi>
+                  </item>
+                  <item>
+                     <hi>James.</hi> The golden Alphabet of a Chri<g ref="char:EOLhyphen"/>ſtian.</item>
+                  <item>1. <hi>Peter.</hi> A Theologicall ſummary.</item>
+                  <item>2. <hi>Peter.</hi> The Encouragement of a ſpirituall warrier.</item>
+                  <pb n="30" facs="tcp:114030:18"/>
+                  <item>1. <hi>John.</hi> The Glaſſe of Charity.</item>
+                  <item>2. <hi>John.</hi> The patern of a pious Matron.</item>
+                  <item>3. <hi>Iohn.</hi> The Mirrour of Hoſpitality.</item>
+                  <item>
+                     <hi>Iude.</hi> A picture of falſe Prophets.</item>
+                  <item>
+                     <hi>Revelation. Daniel Redivivus.</hi> The opening of the Treaſure of future events.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer/>
+            <postscript>
+               <p>
+                  <hi>THis Eſsay I conceive is very well worthy the publiſhing, that if the difficulties may be overcome, the whole deſign may be un<g ref="char:EOLhyphen"/>dertaken.</hi>
+               </p>
+               <closer>
+                  <signed>Charles Herle.</signed>
+               </closer>
+            </postscript>
+            <pb facs="tcp:114030:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
